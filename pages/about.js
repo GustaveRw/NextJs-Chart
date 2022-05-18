@@ -32,7 +32,7 @@ export default function IndexPage() {
 
   return (
     <div>
-      <span>Chart.js Demo</span>
+      <span>A chart Demo</span>
       <canvas ref={canvasEl} width="400" height="400" />
     </div>
   );
